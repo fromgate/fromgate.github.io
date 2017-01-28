@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on fromgate.me</title>
-    <link>http://fromgate.github.io/post/index.xml</link>
+    <link>http://fromgate.me/post/index.xml</link>
     <description>Recent content in Posts on fromgate.me</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 28 Jan 2017 20:12:47 +0300</lastBuildDate>
-    <atom:link href="http://fromgate.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://fromgate.me/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Video about app Translations for Minecraft</title>
-      <link>http://fromgate.github.io/post/translations-for-minecraft-video/</link>
+      <link>http://fromgate.me/post/translations-for-minecraft-video/</link>
       <pubDate>Sat, 28 Jan 2017 20:12:47 +0300</pubDate>
       
-      <guid>http://fromgate.github.io/post/translations-for-minecraft-video/</guid>
+      <guid>http://fromgate.me/post/translations-for-minecraft-video/</guid>
       <description>&lt;p&gt;After receiving some negative (one star) feedback on the GooglePlay, I found that some
 users of my application did not understood how it works.&lt;/p&gt;
 
@@ -30,10 +30,10 @@ users of my application did not understood how it works.&lt;/p&gt;
     
     <item>
       <title>fromgate.me - Welcome back!</title>
-      <link>http://fromgate.github.io/post/new-fromgate-me/</link>
+      <link>http://fromgate.me/post/new-fromgate-me/</link>
       <pubDate>Tue, 24 Jan 2017 09:59:55 +0300</pubDate>
       
-      <guid>http://fromgate.github.io/post/new-fromgate-me/</guid>
+      <guid>http://fromgate.me/post/new-fromgate-me/</guid>
       <description>&lt;p&gt;Hello! I&amp;rsquo;m going to recreate this blog - fromgate.me. I&amp;rsquo;m planning to make
 it something like my Russian &lt;a href=&#34;http://fromgate.ru&#34;&gt;http://fromgate.ru&lt;/a&gt;.&lt;/p&gt;
 </description>
