@@ -6,8 +6,19 @@
     <description>Recent content in Posts on fromgate.me</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 28 Jan 2017 20:12:47 +0300</lastBuildDate>
+    <lastBuildDate>Mon, 30 Jan 2017 11:02:07 +0300</lastBuildDate>
     <atom:link href="http://fromgate.me/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Translations project got new url</title>
+      <link>http://fromgate.me/post/translattion-for-minecraft-url/</link>
+      <pubDate>Mon, 30 Jan 2017 11:02:07 +0300</pubDate>
+      
+      <guid>http://fromgate.me/post/translattion-for-minecraft-url/</guid>
+      <description>&lt;p&gt;I noticed that Crowdin allows to use custom url for translations projects.
+And now Translations for Minecraft has new url: &lt;a href=&#34;http://translate.fromgate.me&#34;&gt;http://translate.fromgate.me&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Video about app Translations for Minecraft</title>
