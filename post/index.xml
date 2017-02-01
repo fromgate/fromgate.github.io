@@ -6,8 +6,22 @@
     <description>Recent content in Posts on fromgate.me</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 30 Jan 2017 11:02:07 +0300</lastBuildDate>
+    <lastBuildDate>Wed, 01 Feb 2017 21:10:15 +0300</lastBuildDate>
     <atom:link href="http://fromgate.me/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>mcpe 1 0 3 beta build</title>
+      <link>http://fromgate.me/post/mcpe-1-0-3-beta-build/</link>
+      <pubDate>Wed, 01 Feb 2017 21:10:15 +0300</pubDate>
+      
+      <guid>http://fromgate.me/post/mcpe-1-0-3-beta-build/</guid>
+      <description>&lt;p&gt;Today released new beta build for Minecraft Pocket Edition (Android).&lt;br /&gt;
+This version contains new command &amp;ldquo;servertransfer&amp;rdquo; and messages that reveals
+name of resourcepack that will added in the next version: &amp;ldquo;Candy&amp;rdquo;.
+d
+You can find all message (and help them translate) on &lt;a href=&#34;http://translate.fromgate.me&#34;&gt;translate.fromgate.me&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Translations project got new url</title>
