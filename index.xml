@@ -6,8 +6,22 @@
     <description>Recent content on fromgate.me</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Feb 2017 21:10:15 +0300</lastBuildDate>
+    <lastBuildDate>Sun, 12 Feb 2017 13:24:45 +0300</lastBuildDate>
     <atom:link href="http://fromgate.me/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Translations for Minecraft v3.1.0</title>
+      <link>http://fromgate.me/post/translation-for-minecraft-3-1-0/</link>
+      <pubDate>Sun, 12 Feb 2017 13:24:45 +0300</pubDate>
+      
+      <guid>http://fromgate.me/post/translation-for-minecraft-3-1-0/</guid>
+      <description>&lt;p&gt;New version of application Translations for Minecraft uploaded to GooglePlay.&lt;/p&gt;
+
+&lt;p&gt;Now it trying to apply installed resource packs and choose correct language in game menu.&lt;/p&gt;
+
+&lt;p&gt;And I must say &amp;ldquo;Thank you&amp;rdquo; to &lt;a href=&#34;http://translate.fromgate.me/profile/phjtieudoc&#34;&gt;Drake Strike&lt;/a&gt;, who translated application to Vietnamese and made a greate contribution with translationg missed MCPE messages.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>MCPE 1.0.3 beta released</title>
