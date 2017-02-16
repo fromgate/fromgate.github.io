@@ -6,8 +6,39 @@
     <description>Recent content in Posts on fromgate.me</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 Feb 2017 13:24:45 +0300</lastBuildDate>
+    <lastBuildDate>Thu, 16 Feb 2017 23:24:41 +0300</lastBuildDate>
     <atom:link href="http://fromgate.me/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Released Weatherman v1.1.0</title>
+      <link>http://fromgate.me/post/weatherman-1-1-0/</link>
+      <pubDate>Thu, 16 Feb 2017 23:24:41 +0300</pubDate>
+      
+      <guid>http://fromgate.me/post/weatherman-1-1-0/</guid>
+      <description>
+
+&lt;p&gt;Released new version of my bukkit plugin WeatherMan v1.1.0.&lt;/p&gt;
+
+&lt;h5 id=&#34;changelog&#34;&gt;Changelog&lt;/h5&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Added Local Time feature. Now you can create time specific for player, region, biome or world.&lt;/li&gt;
+&lt;li&gt;Internal recode and optimization&lt;/li&gt;
+&lt;li&gt;Updated to craftbukkit/spigot 1.11.x&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&#34;new-commands&#34;&gt;New commands:&lt;/h5&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;/wtm player [&amp;lt;player&amp;gt; &amp;lt;HH:MM|day|night|remove&amp;gt;]&lt;/code&gt; — configure player personal time&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;/wtm region [&amp;lt;region&amp;gt; &amp;lt;HH:MM|day|night|remove&amp;gt;]&lt;/code&gt; — configure local region time&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;/wtm biome [&amp;lt;biome&amp;gt; &amp;lt;HH:MM|day|night|remove&amp;gt;]&lt;/code&gt; — configure local biome time&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;/wtm world [&amp;lt;world&amp;gt; &amp;lt;HH:MM|day|night|remove&amp;gt;]&lt;/code&gt; — configure local world time&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://dev.bukkit.org/projects/weatherman/files/2382463&#34;&gt;Download&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Translations for Minecraft v3.1.0</title>
